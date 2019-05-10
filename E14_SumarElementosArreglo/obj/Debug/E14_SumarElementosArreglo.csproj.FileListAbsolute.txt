@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\bin\Debug\E14_SumarElementosArreglo.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\bin\Debug\E14_SumarElementosArreglo.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\bin\Debug\E14_SumarElementosArreglo.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\obj\Debug\E14_SumarElementosArreglo.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\obj\Debug\E14_SumarElementosArreglo.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\obj\Debug\E14_SumarElementosArreglo.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E14_SumarElementosArreglo\E14_SumarElementosArreglo\obj\Debug\E14_SumarElementosArreglo.pdb
